@@ -1,0 +1,14 @@
+{
+    "name": "GmSSL-Docs3.0",
+    "version": "1.0.0",
+    "description": "GmSSL 上手文档",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "main": "index.js",
+    "license": "MIT",
+    "devDependencies": {
+        "vuepress": "^1.9.10"
+    }
+}
